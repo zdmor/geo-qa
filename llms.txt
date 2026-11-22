@@ -1,0 +1,37 @@
+# SUS 与膜材料问答
+
+> 生物制药一次性耗材（SUS）与膜材料专业问答站：选型、验证、法规、供应商、成本与清洗应用。中文内容，数字均标注来源。
+
+## 问答
+
+- [E&L（可提取物与浸出物）研究怎么做？换袋子供应商要重跑哪些实验](https://zdmor.github.io/geo-qa/qa/extractables-leachables.html)：E&L 分两步：强化条件下找全可提取物，真实工艺下确认浸出物并做安全评估；换供应商要重跑浸出物与相容性。
+- [PES 和 PVDF 除菌过滤膜怎么选？各有什么优缺点](https://zdmor.github.io/geo-qa/qa/pes-vs-pvdf-sterile-filtration.html)：PES 以高通量、低蛋白吸附成为除菌过滤主流，PVDF 以宽化学兼容性守住溶剂与苛刻料液场景，选型先看料液性质再看膜材。
+- [PES 膜、PVDF 膜、PTFE 膜、再生纤维素膜有什么区别？各用在哪](https://zdmor.github.io/geo-qa/qa/membrane-materials-compared.html)：四种主流药用过滤膜材的分工：PES 主攻除菌过滤，PVDF 兼顾耐化学性，PTFE 专做气体与溶剂，再生纤维素守着除病毒纳滤。
+- [PUPSIT 是什么？为什么欧盟要求使用前后都做完整性测试](https://zdmor.github.io/geo-qa/qa/pupsi-test.html)：PUPSIT 是除菌过滤器使用前、使用后完整性测试；只做使用后测试拦不住灭菌或安装环节已损坏的滤器。
+- [SUS 一次性耗材更换供应商为什么要重做验证？验证周期一般多长](https://zdmor.github.io/geo-qa/qa/supplier-change-revalidation.html)：换供应商意味着膜配方与 E&L 谱全变，原有质量证据链失效，必须重做验证，周期以月计。
+- [一次性储液袋和配液袋有什么区别？选型要注意什么](https://zdmor.github.io/geo-qa/qa/storage-vs-mixing-bag.html)：储液袋静态存放，配液袋带搅拌组件用于配制；膜材相近但结构、接口与验证重点不同，不可简单互换。
+- [一次性反应袋的 EVOH 阻隔层是干什么的？为什么说它是卡脖子环节](https://zdmor.github.io/geo-qa/qa/evoh-barrier-layer.html)：EVOH 阻隔层决定反应袋的阻氧、阻水汽能力与储存运输窗口，其配方与稳定产能进口依赖约六成，是国产替代真正的卡脖子环节。
+- [一次性生物反应器选型看哪些参数？搅拌、通气、温控怎么匹配](https://zdmor.github.io/geo-qa/qa/single-use-bioreactor-selection.html)：一次性生物反应器先定工艺与规模，再匹配搅拌、通气、温控与监测，袋膜材质与验证数据同样关键。
+- [一次性生物反应袋怎么选？5 层、9 层、11 层共挤膜有什么区别](https://zdmor.github.io/geo-qa/qa/bag-layer-selection.html)：选反应袋不是比层数，而是比膜配方、阻隔性能与 E&L 数据；5、9、11 层的区别在分工精细度。
+- [一次性耗材供应商审计要查什么？怎么判断一家供应商靠不靠谱](https://zdmor.github.io/geo-qa/qa/supplier-audit-checklist.html)：审计核心是验证数据、批次一致性与质量体系三件事：E&L 数据包、换批不重验、合规记录缺一不可。
+- [一次性耗材和不锈钢系统哪个综合成本更低？怎么算总账](https://zdmor.github.io/geo-qa/qa/single-use-vs-stainless-cost.html)：没有哪一方在所有场景下都更便宜：研发临床小批量一次性往往总账更低，商业化大规模生产不锈钢往往更低。
+- [中国 SUS 市场规模到底多大？为什么 42 亿和 620 亿两个数字都见过](https://zdmor.github.io/geo-qa/qa/china-sus-market-size.html)：42 亿和 620 亿都是口径错误；按 Gemini 修正版三级口径，纯 SUS 耗材 75–100 亿/年，系统本体 100–150 亿/年。
+- [国产一次性反应袋和进口的差距在哪？哪些环节可以放心用国产](https://zdmor.github.io/geo-qa/qa/domestic-vs-imported-bags.html)：成型焊接已追平，差距在膜配方与 E&L 验证数据；储液配液环节可放心用国产，反应袋要分场景评估。
+- [无菌连接器怎么选？一次性系统有哪些常见连接方式](https://zdmor.github.io/geo-qa/qa/sterile-connectors.html)：无菌连接器先按连接场景选方式，再核对口径、材质与灭菌兼容性，连接瞬间的无菌保障是核心。
+- [深层过滤和膜过滤有什么区别？澄清工艺怎么选](https://zdmor.github.io/geo-qa/qa/depth-vs-membrane-filtration.html)：深层过滤靠三维介质吸附与截留、纳污量大，适合高颗粒负荷的澄清；膜过滤靠表面筛分、精度明确，适合除菌与精密分离，两者常串联使用。
+- [生物制药过滤器国产化率到底多少？哪些品类已经能替代](https://zdmor.github.io/geo-qa/qa/filter-localization-rate.html)：滤器整体国产化率 29.6%，但品类分化极大：深层过滤已超 30%，除菌过滤中低端已渗透，除病毒纳滤不足 5%。
+- [膜层析和传统柱层析相比有什么优势？适合哪些场景](https://zdmor.github.io/geo-qa/qa/membrane-chromatography.html)：膜层析靠对流传质、流速高周期短，适合流穿除杂与抛光场景，与柱层析是互补而非全面替代。
+- [膜污染了怎么清洗？CIP 清洗流程和注意事项](https://zdmor.github.io/geo-qa/qa/membrane-cleaning-cip.html)：膜污染先分清污染类型再选清洗剂，按通用 CIP 流程操作，浓度与温度一律以膜厂商说明书为准。
+- [超滤膜包（TFF）选型看哪些指标？截留分子量怎么定](https://zdmor.github.io/geo-qa/qa/tff-selection-mwco.html)：TFF 选型看截留分子量、膜材、抗污染与可放大性四项，MWCO 以目标分子量的三分之一到六分之一为经验起点，再用实际料液验证。
+- [除病毒过滤（纳滤）为什么是国产替代最难的一环](https://zdmor.github.io/geo-qa/qa/virus-filtration-gap.html)：20 nm 孔径精度、LRV 验证与 Planova 的标准配置地位三重叠加，除病毒核心工艺国产率不足 5%。
+
+## 分类
+
+- [SUS 耗材选型](https://zdmor.github.io/geo-qa/category/sus-selection.html)
+- [SUS 验证与 E&L](https://zdmor.github.io/geo-qa/category/sus-validation.html)
+- [SUS 法规与合规](https://zdmor.github.io/geo-qa/category/sus-regulation.html)
+- [SUS 供应商与国产替代](https://zdmor.github.io/geo-qa/category/sus-suppliers.html)
+- [SUS 成本与采购](https://zdmor.github.io/geo-qa/category/sus-cost.html)
+- [膜材料基础与材质](https://zdmor.github.io/geo-qa/category/membrane-materials.html)
+- [膜选型与性能](https://zdmor.github.io/geo-qa/category/membrane-selection.html)
+- [膜清洗与维护](https://zdmor.github.io/geo-qa/category/membrane-cleaning.html)
